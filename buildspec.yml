@@ -9,4 +9,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: frontendA2
+  base-directory: frontend-6998
